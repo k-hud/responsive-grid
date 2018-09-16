@@ -1,0 +1,35 @@
+/* Global styles */
+
+.main {
+    padding-top: 30px;
+}
+
+main .row {
+    padding-bottom: 20px;
+}
+
+/* Box Definitions */
+
+.box {
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+/* Row Colors */
+
+.orange {
+    background-color: orange; 
+}
+
+.red {
+    background-color: red; 
+}
+
+.blue {
+    background-color: blue; 
+}
+
+.green {
+    background-color: green; 
+}
