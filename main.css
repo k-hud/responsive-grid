@@ -14,22 +14,25 @@ main .row {
     width: 100%;
     text-align: center;
     padding-top: 30px;
+    height: 200px;
+
 }
 
 /* Row Colors */
 
-.orange {
-    background-color: orange; 
-}
-
-.red {
-    background-color: red; 
+.yellow {
+    background-color: lightgoldenrodyellow; 
 }
 
 .blue {
-    background-color: blue; 
+    background-color: royalblue; 
 }
 
 .green {
     background-color: green; 
+}
+
+.black {
+    background-color: black; 
+    color: white;
 }
